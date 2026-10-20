@@ -64,3 +64,11 @@ Deploy next-backend as Next.js and react-frontend as Vite (build npm run build, 
 
 ## Changes to starter
 Implemented all placeholder routes and UserProvider. Preserved src/lib helpers, proxy.js, API route paths and HashRouter. Fixed production MongoDB connection reuse, configurable CORS, proxy route matching/preflight, and remote-font build dependency. Comments identify fixes. Added only necessary setup/enrollment endpoints, frontend deployment config and documentation. Existing dependency versions are retained unless installation verification notes say otherwise.
+
+## Submission Links
+
+Frontend repository: https://github.com/Seng-ban-nu/course-frontend
+Backend repository: https://github.com/Seng-ban-nu/course-backend
+Frontend website: https://course-frontend-delta.vercel.app/
+Backend website: https://course-backend-pied.vercel.app/
+Screen recording: ADD_YOUR_RECORDING_LINK
