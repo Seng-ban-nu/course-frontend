@@ -56,11 +56,11 @@ Course enrollment is embedded in the course document. One atomic MongoDB operati
 Deploy next-backend as Next.js and react-frontend as Vite (build npm run build, output dist), preferably as two GitHub repositories. Before frontend deployment, replace YOUR-BACKEND in react-frontend/vercel.json with the backend production hostname and push. HashRouter preserves the supplied architecture and supports refresh without SPA fallback rewrites. Set backend FRONTEND_URL to the frontend origin and redeploy. Setup must run against the same configured database. Never commit .env.local; configure Vercel separately.
 
 ## Submission
-- Backend repository: ADD URL
-- Frontend repository: ADD URL
-- Backend deployment: ADD URL
-- Frontend deployment: ADD URL
-- Entire-screen and camera recording link: ADD LINK
+- Backend repository: https://github.com/Seng-ban-nu/course-backend
+- Frontend repository: https://github.com/Seng-ban-nu/course-frontend
+- Backend deployment: https://course-backend-pied.vercel.app/
+- Frontend deployment: https://course-frontend-delta.vercel.app/
+- Entire-screen and camera recording
 
 ## Changes to starter
 Implemented all placeholder routes and UserProvider. Preserved src/lib helpers, proxy.js, API route paths and HashRouter. Fixed production MongoDB connection reuse, configurable CORS, proxy route matching/preflight, and remote-font build dependency. Comments identify fixes. Added only necessary setup/enrollment endpoints, frontend deployment config and documentation. Existing dependency versions are retained unless installation verification notes say otherwise.
