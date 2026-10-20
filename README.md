@@ -1,8 +1,8 @@
 # Online Course Service - Final Exam
 
 ## Student Information
-- Student Name: ENTER YOUR NAME
-- Student ID: ENTER YOUR STUDENT ID
+- Student Name: Seng Ban Nu
+- Student ID: 6622007
 
 ## Test credentials
 | Username | Email | Password | Role |
