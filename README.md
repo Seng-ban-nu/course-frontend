@@ -71,4 +71,4 @@ Frontend repository: https://github.com/Seng-ban-nu/course-frontend
 Backend repository: https://github.com/Seng-ban-nu/course-backend
 Frontend website: https://course-frontend-delta.vercel.app/
 Backend website: https://course-backend-pied.vercel.app/
-Screen recording: ADD_YOUR_RECORDING_LINK
+Screen recording: Recording Link is attached to the recording submission via MS Teams.
